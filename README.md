@@ -9,8 +9,8 @@ Repository Structure
 The repository contains 2 main folders and README.md file
 
 •	data
-o	data/raw contains the excel file EJ and Maritime JET guiding principles.xlsx
-o	data/processed contains the clean data after transformation
+   o	data/raw contains the excel file EJ and Maritime JET guiding principles.xlsx
+   o	data/processed contains the clean data after transformation
 •	scripts
-o	scripts/01_processing contains R script to clean raw data and export clean csv file for visualization
+   o	scripts/01_processing contains R script to clean raw data and export clean csv file for visualization
  
